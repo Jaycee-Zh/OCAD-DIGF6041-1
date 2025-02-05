@@ -27,3 +27,5 @@ The movements of servos and lights change according to the two players' actions,
 ## actions(decided by Arduino):
 - When either of the players is on the isDrawing status, the motor will roll the paper  
 - When both isDrawing is true, servos will move by a large range of angles and the drawn lines will cross with each other.
+
+Note: The file is written by the author without the help of generative AIs.
